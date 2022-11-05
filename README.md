@@ -1,3 +1,3 @@
 # Airbnb Clone
-![image](https://user-images.githubusercontent.com/97431540/184875914-528edeef-b387-4fcc-ae28-60c8c1723c94.png)
+![image](https://user-images.githubusercontent.com/106574136/200133752-eff2bd96-eabd-41ed-bce4-507fb05a0a43.png)
 
